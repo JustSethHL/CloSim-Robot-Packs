@@ -1,0 +1,122 @@
+{
+    "schemaVersion": 1,
+    "packs": [
+        {
+            "packId": "rebuilt-great-lakes",
+            "displayName": "Great Lakes",
+            "season": "Rebuilt",
+            "gameVersion": "3.2.0",
+            "platform": "windows64",
+            "version": "3.2.0",
+            "contentVersion": 352111779,
+            "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-great-lakes-windows64.zip",
+            "downloadSize": 1026345532,
+            "installedSize": 1397658040,
+            "sha256": "1f25844fbe70bb521fde226717f301f5a4109ffb884b67dc7952178606bd1af6"
+        },
+        {
+            "packId": "rebuilt-international",
+            "displayName": "International",
+            "season": "Rebuilt",
+            "gameVersion": "3.2.0",
+            "platform": "windows64",
+            "version": "3.2.0",
+            "contentVersion": 851882797,
+            "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-international-windows64.zip",
+            "downloadSize": 231538163,
+            "installedSize": 319890057,
+            "sha256": "6d7cd5119e670aaa7b6df959023e8a8097ae0355ac45e688ff926c1162d8372b"
+        },
+        {
+            "packId": "rebuilt-mexico",
+            "displayName": "Mexico",
+            "season": "Rebuilt",
+            "gameVersion": "3.2.0",
+            "platform": "windows64",
+            "version": "3.2.0",
+            "contentVersion": 872374115,
+            "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-mexico-windows64.zip",
+            "downloadSize": 866745392,
+            "installedSize": 1198349637,
+            "sha256": "65f0d4c5fbfc7503b1b606bb7c27b8a1336c54dd90d32258e381d7df04378fec"
+        },
+        {
+            "packId": "rebuilt-mid-atlantic",
+            "displayName": "Mid-Atlantic",
+            "season": "Rebuilt",
+            "gameVersion": "3.2.0",
+            "platform": "windows64",
+            "version": "3.2.0",
+            "contentVersion": 1937240308,
+            "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-mid-atlantic-windows64.zip",
+            "downloadSize": 923399740,
+            "installedSize": 1290342725,
+            "sha256": "5a29b15821f0901d9a5ed09968fa7bbb4fa6fb5a3ba388b54d2cee8593fad6cc"
+        },
+        {
+            "packId": "rebuilt-north-east",
+            "displayName": "North East",
+            "season": "Rebuilt",
+            "gameVersion": "3.2.0",
+            "platform": "windows64",
+            "version": "3.2.0",
+            "contentVersion": 181449434,
+            "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-north-east-windows64.zip",
+            "downloadSize": 815529969,
+            "installedSize": 1107132636,
+            "sha256": "176ff1f147c48344e3c0d043b4fb37eaddafc213f2f9db708897c9d148ad7260"
+        },
+        {
+            "packId": "rebuilt-pnw",
+            "displayName": "Pacific Northwest",
+            "season": "Rebuilt",
+            "gameVersion": "3.2.0",
+            "platform": "windows64",
+            "version": "3.2.0",
+            "contentVersion": 313501347,
+            "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-pnw-windows64.zip",
+            "downloadSize": 157841911,
+            "installedSize": 210103581,
+            "sha256": "3185835530a048f95ea7b0fec4b9f63d1a78bf1cd4cf948068c7449274fb7770"
+        },
+        {
+            "packId": "rebuilt-south-central",
+            "displayName": "South Central",
+            "season": "Rebuilt",
+            "gameVersion": "3.2.0",
+            "platform": "windows64",
+            "version": "3.2.0",
+            "contentVersion": 1711125475,
+            "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-south-central-windows64.zip",
+            "downloadSize": 272812303,
+            "installedSize": 396012381,
+            "sha256": "d5794ee300cd8c914cbb94a7b2e4324eb59b08b0a962bc356f9e210ae1e3c767"
+        },
+        {
+            "packId": "rebuilt-south-west",
+            "displayName": "South West",
+            "season": "Rebuilt",
+            "gameVersion": "3.2.0",
+            "platform": "windows64",
+            "version": "3.2.0",
+            "contentVersion": 1527901073,
+            "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-south-west-windows64.zip",
+            "downloadSize": 242880110,
+            "installedSize": 328770419,
+            "sha256": "29b5c29873ff442400177d7148bd06cdf67bb5a956a97ea3f268e1adb1b6766d"
+        },
+        {
+            "packId": "reefscape-add-ons",
+            "displayName": "Reefscape Add-ons",
+            "season": "Reefscape",
+            "gameVersion": "3.2.0",
+            "platform": "windows64",
+            "version": "3.2.0",
+            "contentVersion": 419632227,
+            "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/reefscape-add-ons-windows64.zip",
+            "downloadSize": 279443242,
+            "installedSize": 390178294,
+            "sha256": "614deed9a2c06a131c40539156e50b18250874304e967f4541e4e1411aaf09ff"
+        }
+    ]
+}
