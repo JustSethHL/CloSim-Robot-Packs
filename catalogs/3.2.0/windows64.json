@@ -8,11 +8,11 @@
             "gameVersion": "3.2.0",
             "platform": "windows64",
             "version": "3.2.0",
-            "contentVersion": 1737183810,
+            "contentVersion": 1519922899,
             "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-great-lakes-windows64.zip",
-            "downloadSize": 532524483,
-            "installedSize": 722229224,
-            "sha256": "8ff32cc6084b336b3699949d0003aaba8431ec506dbc28863c8354b923ba2dba"
+            "downloadSize": 531904844,
+            "installedSize": 721492111,
+            "sha256": "18d5fb00e9be93ae6b6166dd1ebd1eace2e55c1abc1bb535d80c9bf586b35e54"
         },
         {
             "packId": "rebuilt-international",
@@ -21,11 +21,11 @@
             "gameVersion": "3.2.0",
             "platform": "windows64",
             "version": "3.2.0",
-            "contentVersion": 355677374,
+            "contentVersion": 741544055,
             "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-international-windows64.zip",
-            "downloadSize": 233101693,
-            "installedSize": 321716467,
-            "sha256": "c8c27c2231b3904d292320e7041b7d7e2111ccda690749c6e2b90573c4db59ba"
+            "downloadSize": 233013439,
+            "installedSize": 321612258,
+            "sha256": "32dca46e599568c78cc2cd262b916dde4ee361122dc2b647f8f3e2d0c34c7f21"
         },
         {
             "packId": "rebuilt-mexico",
@@ -34,11 +34,11 @@
             "gameVersion": "3.2.0",
             "platform": "windows64",
             "version": "3.2.0",
-            "contentVersion": 1926793133,
+            "contentVersion": 1977408024,
             "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-mexico-windows64.zip",
-            "downloadSize": 438448387,
-            "installedSize": 605737762,
-            "sha256": "e29412806937fbcda7fd143d1a33bb624ff07530687fa8ef7a2a63873e5b1cc3"
+            "downloadSize": 438444625,
+            "installedSize": 605720265,
+            "sha256": "55975342cb56e0fcf7974cc28ee2f363a22023fb394175d16f0bad54761d7aee"
         },
         {
             "packId": "rebuilt-mid-atlantic",
@@ -47,11 +47,11 @@
             "gameVersion": "3.2.0",
             "platform": "windows64",
             "version": "3.2.0",
-            "contentVersion": 1712435241,
+            "contentVersion": 1109369805,
             "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-mid-atlantic-windows64.zip",
-            "downloadSize": 469166624,
-            "installedSize": 653924779,
-            "sha256": "157dd49899feb25285615afcd29e95acdb6437cbcb1791a62e237b39839d7fa8"
+            "downloadSize": 468744939,
+            "installedSize": 653459567,
+            "sha256": "13b086fe8a0e342c9835357b3550db2d7967bad93b0e0cfd0bab9c9ed9364bd3"
         },
         {
             "packId": "rebuilt-north-east",
@@ -60,11 +60,11 @@
             "gameVersion": "3.2.0",
             "platform": "windows64",
             "version": "3.2.0",
-            "contentVersion": 1887356788,
+            "contentVersion": 288290246,
             "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-north-east-windows64.zip",
-            "downloadSize": 816595453,
-            "installedSize": 1108944890,
-            "sha256": "bf08689b6db99a2bbf5a57b23accb0b0d7849aa2fd08ce0fc83b4ce92cb5a086"
+            "downloadSize": 410096105,
+            "installedSize": 556520487,
+            "sha256": "a6a74f36f205ec70e3e3cfa44d02091c29291a69a2063cf9c6776cbb391e301e"
         },
         {
             "packId": "rebuilt-pnw",
@@ -73,11 +73,11 @@
             "gameVersion": "3.2.0",
             "platform": "windows64",
             "version": "3.2.0",
-            "contentVersion": 2053091901,
+            "contentVersion": 1914996124,
             "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-pnw-windows64.zip",
-            "downloadSize": 157865003,
-            "installedSize": 210118915,
-            "sha256": "5d1829b97cb34322d1754f41e51ec3bcf40a6bff92adccb9eaab13dc031a6da8"
+            "downloadSize": 157543416,
+            "installedSize": 209649571,
+            "sha256": "21f6263a8a839b6c07280f9354759aa6ee3522d620d458bc9814a556c0be40a7"
         },
         {
             "packId": "rebuilt-south-central",
@@ -86,11 +86,11 @@
             "gameVersion": "3.2.0",
             "platform": "windows64",
             "version": "3.2.0",
-            "contentVersion": 2125725975,
+            "contentVersion": 1773288031,
             "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-south-central-windows64.zip",
-            "downloadSize": 274464465,
-            "installedSize": 397955846,
-            "sha256": "a67bfc7a6a05ffa3c72256b6503707ac2ef5f0c5a595e9c54638248190d1c2b1"
+            "downloadSize": 274167570,
+            "installedSize": 397591896,
+            "sha256": "4eacb56f7bec5ecd97f29a958c2118f43c728ad20bf519032d79b020676b862b"
         },
         {
             "packId": "rebuilt-south-west",
@@ -99,11 +99,11 @@
             "gameVersion": "3.2.0",
             "platform": "windows64",
             "version": "3.2.0",
-            "contentVersion": 427665527,
+            "contentVersion": 948822401,
             "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/rebuilt-south-west-windows64.zip",
-            "downloadSize": 242851466,
-            "installedSize": 328734906,
-            "sha256": "5516b794bbbadcc07ccb3b66692e4fa8234d6ce2c57719fe6ee49964ad8e21d6"
+            "downloadSize": 242047316,
+            "installedSize": 327881398,
+            "sha256": "2c48c66ca6a21b6f7e2bfcbcb45444c75686f3d169d4804ea770e3e2891c29be"
         },
         {
             "packId": "reefscape-add-ons",
@@ -112,11 +112,11 @@
             "gameVersion": "3.2.0",
             "platform": "windows64",
             "version": "3.2.0",
-            "contentVersion": 6497881,
+            "contentVersion": 892901604,
             "downloadUrl": "https://github.com/JustSethHL/CloSim-Robot-Packs/releases/download/packs-v1.3.2-windows64/reefscape-add-ons-windows64.zip",
-            "downloadSize": 281073164,
-            "installedSize": 392093634,
-            "sha256": "dd31d33cba950d00abac77c147c0ca377a2c8008c3e345f39f285bf7e5dfa621"
+            "downloadSize": 281042793,
+            "installedSize": 392060484,
+            "sha256": "cfe33a04536762996e7a2a39b7c89a06298b803950a6da30c2bfec3b42270e45"
         }
     ]
 }
